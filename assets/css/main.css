@@ -1371,7 +1371,12 @@ input#searchOfHeader:focus~.search_history {
 /* Mobile max-width:740px */
 @media screen and (max-width:739px) {
 /* qr_info */
-
+.header{
+   position: fixed;
+}
+.container{
+   padding-top: 80px;
+}
 .header__nav-list li.item1:hover .qr_info {
    width: 100px;
 }
