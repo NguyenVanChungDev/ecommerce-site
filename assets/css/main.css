@@ -4,7 +4,7 @@
    height: auto;
    /* background-image: linear-gradient(0, #fe6433, #f53e2d); */
    background-color: var(--primary-color);
-   position: fixed;
+   /* position: fixed; */
    width: 100%;
    z-index: 10;
 }
@@ -880,7 +880,7 @@ input#searchOfHeader:focus~.search_history {
 .container {
    /* background-color: rgba(223, 217, 217, 0.342); */
    background-color: #f5f5f5;
-   padding-top: 115px;
+   /* padding-top: 115px; */
 
 }
 
